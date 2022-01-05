@@ -9,7 +9,7 @@ const Label = styled.label`
   display: flex;
   color: #757575;
   font-size: 14px;
-  font-wwigh: tbold;
+  font-wwigh: tbold;　
 `;
 
 const Input = styled.input`
